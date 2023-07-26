@@ -1,0 +1,10 @@
+{
+  "server": "nuak.social",
+  "home-timeline-length": 500,
+  "max-followings": 500,
+  "max-bookmarks":500,
+  "max-favorites":500,
+  "max-followers":500,
+  "max-follow-requests":500,
+  "from-notifications": 1
+}
